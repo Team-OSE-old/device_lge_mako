@@ -1,9 +1,9 @@
 [
  {
-   "remote": "cm",
-   "repository": "android_kernel_google_msm",
+   "remote": "gh",
+   "repository": "cameron581/linux_lg_kitkat",
    "target_path": "kernel/google/msm",
-   "revision": "cm-11.0"
+   "revision": "kitkat-cm"
  },
  {
    "remote": "ls",
