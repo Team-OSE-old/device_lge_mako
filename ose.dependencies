@@ -1,14 +1,12 @@
 [
  {
-   "remote": "gh",
    "repository": "cameron581/linux_lg_kitkat",
    "target_path": "kernel/google/msm",
-   "revision": "kitkat-cm"
+   "branch": "kitkat-cm"
  },
  {
-   "remote": "ls",
-   "repository": "proprietary_vendor_lge",
+   "repository": "LiquidSmooth/proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "revision": "kitkat"
+   "branch": "kitkat"
  }
 ]
